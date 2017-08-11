@@ -24,6 +24,41 @@
     </center>
   </div>
 
+  <article class="algnserv">
+    <div class="container conten">
+      <h1 class="text-center">Algunos de nuestros servicios</h1>
+      <br><br>
+      <div class="uno">
+        <div class="image">
+          <img src="img/consultoriaadministracion.jpg" alt="" class=" img-responsive">
+        </div> <br><br>
+        <h3 class="text-center">Consultoria en Administración</h3>
+      </div>
+      <div class="dos">
+        <div class="image">
+          <img src="img/contabilidad.jpg" alt="" class=" img-responsive">
+        </div> <br><br>
+        <h3 class="text-center">Servicios Contables </h3>
+      </div>
+      <div class="tres">
+        <div class="image">
+          <img src="img/fiscal.png" alt="" class=" img-responsive">
+        </div> <br><br>
+        <h3 class="text-center">Estrategia Fiscal</h3>
+      </div>
+    </div>
+  </article>
+
+  <div class="bannerc">
+    <p class="pull-left texto">
+      ¡Conoce más sobre las soluciones y herramientas con las que podemos <br> fortalecer y expandir tu empresa! <br><br>
+     <small> Contáctenos para agendar una visita SIN COSTO y presentarle una propuesta detallada de trabajo.</small>
+    </p>
+    <div class="pull-right botonc">
+      <a class="btn btn-danger btn-outline btn-lg" href="vistas/contacto.php">CONTACTANOS</a>
+    </div>
+  </div>
+
 
 
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
