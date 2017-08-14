@@ -48,7 +48,7 @@ nav ul .selector:hover{
   color: #DE0E03;
 }
 .banner{
-    height: 450px;
+    height: 480px;
     background: url('../img/banneri.jpg') no-repeat;
     background-size: cover;
     /*background-position: center center;*/
