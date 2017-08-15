@@ -269,3 +269,13 @@ a.boton2:hover{
 }
 
 /*-----------------contacto-----------------*/
+.contact-form {
+    margin-top:70px;
+}
+.mapa{
+  width: 100%;
+  margin-top: 2%;
+}
+.mapa iframe{
+  width: 100%;
+}
