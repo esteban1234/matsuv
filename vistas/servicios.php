@@ -2,11 +2,11 @@
 <?php include 'encabezado2.php' ?>
 <body>
 
-	
+
   <div class="linea"></div>
 <header>
   <figure class="logo pull-left">
-    <img src="../img/matsuv.png" alt="Matsuv" class="img-responsive"> 
+    <img src="../img/matsuv.png" alt="Matsuv" class="img-responsive">
   </figure>
   <nav class="pull-right">
     <ul>
@@ -34,19 +34,19 @@
       <p class="text-center text-danger">Todos estos servicios, son parte del sistema de gestión de nuestros clientes, es decir, todas nuestras soluciones se integran a través de los procesos del negocio.</p><br><br>
         <div class="row">
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/05.jpg"
             class="img-responsive">
             <h3 class="text-center text-danger">Consultoría en Administración</h3>
             <p class="text-center">Guiamos a las empresas en su evolución y crecimiento, facilitando una migración suave y eficaz desde un modelo primario centrado a otro fundamentado en una organización formalizada.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/04.jpg"
             class="img-responsive">
             <h3 class="text-center text-danger">Apoyo para efectuar trámites legales</h3>
             <p class="text-center">Realizamos toda clase de gestión y trámites ante las diferentes dependencias. Todos los servicios y trámites pueden contratarse por períodos o bien por única ocasión.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/06.jpg"
             class="img-responsive">
             <h3 class="text-center text-danger">Servicios de Contabilidad </h3>
             <p class="text-center">Están diseñados para que se constituyan en un verdadero soporte administrativo, sobre el cual el empresario o comerciante pueda realizar netamente su actividad productiva, con la confianza que cuenta con una empresa de especialistas que se encargará de hacer las tareas contables oportunamente y dentro de las disposiciones legales vigentes.</p>
@@ -55,19 +55,19 @@
         <br><br>
         <div class="row">
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/01.jpg"
             class="img-responsive">
             <h3 class="text-center text-danger">Auditoría Financiera</h3>
             <p class="text-center">Guiamos a las empresas en su evolución y crecimiento, facilitando una migración suave y eficaz desde un modelo primario centrado a otro fundamentado en una organización formalizada.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/02.jpg"
             class="img-responsive">
             <h3 class="text-center text-danger">Auditoria Legal</h3>
             <p class="text-center">Realizamos toda clase de gestión y trámites ante las diferentes dependencias. Todos los servicios y trámites pueden contratarse por períodos o bien por única ocasión.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/03.jpg"
             class="img-responsive">
             <h3 class="text-center text-danger">Estrategia Fiscal</h3>
             <p class="text-center">Están diseñados para que se constituyan en un verdadero soporte administrativo, sobre el cual el empresario o comerciante pueda realizar netamente su actividad productiva, con la confianza que cuenta con una empresa de especialistas que se encargará de hacer las tareas contables oportunamente y dentro de las disposiciones legales vigentes.</p>
