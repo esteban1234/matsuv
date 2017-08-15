@@ -12,7 +12,7 @@
     <ul>
       <a class="selector" href="../index.php">INICIO</a>
       <a class="selector" href="nosotros.php">NOSOTROS</a>
-      <a class="selector" id="select" href="servicios">SERVICIOS</a>
+      <a class="selector" id="select" href="servicios.php">SERVICIOS</a>
       <a class="selector" href="contacto.php">CONTACTO</a>
     </ul>
   </nav>
@@ -24,7 +24,7 @@
     </p>
     <div class="pull-right q1">
         <a href="../index.php">Index</a> <span class="divider">/</span>
-        <a id="active1" href="nosotros.php">Servicios</a>
+        <a id="active1" href="servicios.php">Servicios</a>
     </div>
   </div>
 
