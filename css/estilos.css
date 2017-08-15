@@ -160,7 +160,7 @@ width: 100%;
 /*--------------FOOTER----------*/
 footer{
   width: 100%;
-    background:#811B31;
+    background:#3B0700;
     font-family: 'Oswald', sans-serif;
     height: 100px;
     overflow: hidden;
@@ -180,7 +180,7 @@ footer p{
 .ir-arriba {
   display:none;
   padding:20px;
-  background:#811B31;
+  background:#3B0700;
   font-size:20px;
   color:#fff;
   cursor:pointer;
@@ -189,9 +189,83 @@ footer p{
   right:20px;
 }
 /*------------------nosotros----------*/
-
-
+.bannern{
+    height: 80px;
+    background: url('../img/bannern.jpg') no-repeat;
+    background-size: cover;
+    background-position: center center;
+    /*background-repeat: no-repeat;*/
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.q{
+  /*border: 2px red solid;*/
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  margin-top: 1.5%;
+  margin-left: 5%;
+}
+.q1{
+  /*border: 2px red solid;*/
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  margin-top: 2%;
+  margin-right: 5%;
+}
+.q1 a{
+  color: #fff;
+}
+#active1{
+  font-style: italic;
+  font-size: 16px;
+  text-decoration: none;
+}
+.img-text{
+  margin-top: 5%;
+  padding-bottom: 5%;
+}
+.q2{
+  /*border: 2px red solid;*/
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  margin-top: 1.5%;
+  margin-left: 5%;
+}
+.mvv{
+  background-color: #F6F6F6;
+  padding-top: 5%;
+  overflow: hidden;
+}
+.icono{
+  text-align: center;
+  color: #3B0700;
+}
+a.boton2{
+  font-size: 25px;
+  font-family: Verdana;
+  text-decoration: none;
+  font-weight: bold;
+  color: #3B0700;
+  border: 4px solid #3B0700;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 1s, color 1s;
+  -webkit-transition: background 1s, color 1s;
+  -moz-transition: background 1s, color 1s;
+  -o-transition: background 1s, color 1s;
+}
+a.boton2:hover{
+  background-color: #000;
+  color: #fff;
+}
 /*-------------------servicios---------------*/
-
+.serv{
+  margin-top: 5%;
+  padding-bottom: 5%;
+}
 
 /*-----------------contacto-----------------*/

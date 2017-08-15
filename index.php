@@ -9,10 +9,10 @@
   </figure>
   <nav class="pull-right">
     <ul>
-      <a class="selector" id="select" href="">INICIO</a>
-      <a class="selector" href="">NOSOTROS</a>
-      <a class="selector" href="">SERVICIOS</a>
-      <a class="selector" href="">CONTACTO</a>
+      <a class="selector" id="select" href="index.php">INICIO</a>
+      <a class="selector" href="vistas/nosotros.php">NOSOTROS</a>
+      <a class="selector" href="vistas/servicios">SERVICIOS</a>
+      <a class="selector" href="vistas/contacto.php">CONTACTO</a>
     </ul>
   </nav>
 </header>
@@ -20,7 +20,7 @@
   <div class="banner">
     <p>Ayudamos a las empresas <br> a encontrar el camino más fácil <br> al logro de sus objetivos</p>
     <center class="" style="margin-top: 5%;">
-      <a class="boton href="#">CONTÁCTANOS</a>
+      <a class="boton" href="vistas/contacto.php">CONTÁCTANOS</a>
     </center>
   </div>
 
