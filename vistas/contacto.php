@@ -5,7 +5,7 @@
      <div class="linea"></div>
 <header>
   <figure class="logo pull-left">
-    <img src="../img/matsuv.png" alt="Matsuv" class="img-responsive"> 
+    <img src="../img/matsuv.png" alt="Matsuv" class="img-responsive">
   </figure>
   <nav class="pull-right">
     <ul>
@@ -15,6 +15,9 @@
       <a class="selector" id="select" href="contacto.php">CONTACTO</a>
     </ul>
   </nav>
+  <div class="op-menu">
+    <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+  </div>
 </header>
 
 <div class="bannern">
@@ -28,15 +31,15 @@
   </div>
 
 <br><br>
-	
+
 
 <div class="container">
         <h1 class="text-center text-danger">Contactános</h1>
         <p class="text-center text-danger">Escribenos tus comentario, dudas o preguntas, estamos para servirte.</p><br><br>
 
     <div class="row">
-        <div class="col-sm-4">
-            <h4>MATSUV CONSULTORA Y SOLUCIONES EMPRESARIALES SA DE CV</h4>
+        <div class="col-sm-7 col-md-4">
+            <h4 class="h4-contacto">MATSUV CONSULTORA Y SOLUCIONES EMPRESARIALES SA DE CV</h4>
             <hr>
             <address>
                 <strong>Dirección:</strong> C. Ixhuatan #292 por C. Simojovel y<br> C. Tabasco
@@ -47,26 +50,27 @@
                 <strong>Horario:</strong> Lunes a Viernes de 9 am a 6 pm
             </address>
         </div>
-        <div class="col-sm-8 contact-form">
-            <form id="contact" method="post" class="form" role="form">
+        <div class="col-sm-5 col-md-8 contact-form">
+            <form id="contact" method="post" class="form" role="form" onSubmit="return false">
                 <div class="row">
-                    <div class="col-xs-6 col-md-4 form-group">
-                    <input class="form-control" id="name" name="name" placeholder="Escribe tu nombre completo" type="text" required autofocus />
+                    <div class="col-xs-12 col-md-4 form-group">
+                    <input class="form-control" id="txtNOMBRE" name="name" placeholder="Escribe tu nombre completo" type="text" required autofocus />
                     </div>
-                    <div class="col-xs-6 col-md-4 form-group">
-                    <input class="form-control" id="tel" name="tel" placeholder="Escribe tu numero teléfonico" type="text" required autofocus />
+                    <div class="col-xs-12 col-md-4 form-group">
+                    <input class="form-control" id="txtTELEFONO" name="tel" placeholder="Escribe tu numero teléfonico" type="text" required autofocus />
                     </div>
-                    <div class="col-xs-6 col-md-4 form-group">
-                    <input class="form-control" id="email" name="email" placeholder="Email" type="email" required />
+                    <div class="col-xs-12 col-md-4 form-group">
+                    <input class="form-control" id="txtCORREO" name="email" placeholder="Email" type="email" required />
                     </div>
                 </div>
-                <textarea class="form-control" id="message" name="message" placeholder="Escribe tu mensaje" rows="5"></textarea>
+                <textarea class="form-control" id="txtCOMENTARIO" name="message" placeholder="Escribe tu mensaje" rows="5"></textarea>
             <br/>
                 <div class="row">
-                    <div class="col-xs-12 col-md-12 form-group">
-                    <button class="btn btn-danger pull-right" type="submit">Enviar mensaje</button>
+                    <div id="_AJAX_PRE_"></div>
+                    <div class="col-xs-12 col-md-4 form-group">
+                    <button class="btn btn-danger pull-right" type="submit" onclick="sendCORREO()">Enviar mensaje</button>
                     </div>
-                 </div>   
+                 </div>
             </form>
         </div>
     </div>

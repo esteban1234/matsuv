@@ -16,6 +16,9 @@
       <a class="selector" href="contacto.php">CONTACTO</a>
     </ul>
   </nav>
+  <div class="op-menu">
+    <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+  </div>
 </header>
 
 <div class="bannern">
@@ -30,53 +33,47 @@
 
   <div class="section serv">
       <div class="container">
-      <h1 class="text-center text-danger">Nuestros servicios</h1>
-      <p class="text-center text-danger">Todos estos servicios, son parte del sistema de gestión de nuestros clientes, es decir, todas nuestras soluciones se integran a través de los procesos del negocio.</p><br><br>
+      <h1 class="text-center text-danger h1-s">Nuestros servicios</h1>
+      <p class="text-center text-danger text-n-alinear">Todos estos servicios, son parte del sistema de gestión de nuestros clientes, es decir, todas nuestras soluciones se integran a través de los procesos del negocio.</p><br><br>
         <div class="row">
-          <div class="col-md-4">
-            <img src="../img/05.jpg"
-            class="img-responsive">
-            <h3 class="text-center text-danger">Consultoría en Administración</h3>
-            <p class="text-center">Guiamos a las empresas en su evolución y crecimiento, facilitando una migración suave y eficaz desde un modelo primario centrado a otro fundamentado en una organización formalizada.</p>
+          <div class="col-md-4 margen-arriba">
+            <img src="../img/05.jpg" class="img-responsive">
+            <h3 class="text-center text-danger text-h3">Consultoría en Administración</h3>
+            <p class="text-center text-n-alinear">Guiamos a las empresas en su evolución y crecimiento, facilitando una migración suave y eficaz desde un modelo primario centrado a otro fundamentado en una organización formalizada.</p>
           </div>
-          <div class="col-md-4">
-            <img src="../img/04.jpg"
-            class="img-responsive">
-            <h3 class="text-center text-danger">Apoyo para efectuar trámites legales</h3>
-            <p class="text-center">Realizamos toda clase de gestión y trámites ante las diferentes dependencias. Todos los servicios y trámites pueden contratarse por períodos o bien por única ocasión.</p>
+          <div class="col-md-4 margen-arriba">
+            <img src="../img/04.jpg" class="img-responsive">
+            <h3 class="text-center text-danger text-h3">Apoyo para efectuar trámites legales</h3>
+            <p class="text-center text-n-alinear">Realizamos toda clase de gestión y trámites ante las diferentes dependencias. Todos los servicios y trámites pueden contratarse por períodos o bien por única ocasión.</p>
           </div>
-          <div class="col-md-4">
-            <img src="../img/06.jpg"
-            class="img-responsive">
-            <h3 class="text-center text-danger">Servicios de Contabilidad </h3>
-            <p class="text-center">Están diseñados para que se constituyan en un verdadero soporte administrativo, sobre el cual el empresario o comerciante pueda realizar netamente su actividad productiva, con la confianza que cuenta con una empresa de especialistas que se encargará de hacer las tareas contables oportunamente y dentro de las disposiciones legales vigentes.</p>
+          <div class="col-md-4 margen-arriba">
+            <img src="../img/06.jpg" class="img-responsive">
+            <h3 class="text-center text-danger text-h3">Servicios de Contabilidad </h3>
+            <p class="text-center text-n-alinear">Están diseñados para que se constituyan en un verdadero soporte administrativo, sobre el cual el empresario o comerciante pueda realizar netamente su actividad productiva, con la confianza que cuenta con una empresa de especialistas que se encargará de hacer las tareas contables oportunamente y dentro de las disposiciones legales vigentes.</p>
           </div>
         </div>
         <br><br>
         <div class="row">
-          <div class="col-md-4">
-            <img src="../img/01.jpg"
-            class="img-responsive">
-            <h3 class="text-center text-danger">Auditoría Financiera</h3>
-            <p class="text-center">Guiamos a las empresas en su evolución y crecimiento, facilitando una migración suave y eficaz desde un modelo primario centrado a otro fundamentado en una organización formalizada.</p>
+          <div class="col-md-4 margen-arriba">
+            <img src="../img/01.jpg" class="img-responsive">
+            <h3 class="text-center text-danger text-h3">Auditoría Financiera</h3>
+            <p class="text-center text-n-alinear">Guiamos a las empresas en su evolución y crecimiento, facilitando una migración suave y eficaz desde un modelo primario centrado a otro fundamentado en una organización formalizada.</p>
           </div>
-          <div class="col-md-4">
-            <img src="../img/02.jpg"
-            class="img-responsive">
-            <h3 class="text-center text-danger">Auditoria Legal</h3>
-            <p class="text-center">Realizamos toda clase de gestión y trámites ante las diferentes dependencias. Todos los servicios y trámites pueden contratarse por períodos o bien por única ocasión.</p>
+          <div class="col-md-4 margen-arriba">
+            <img src="../img/02.jpg" class="img-responsive">
+            <h3 class="text-center text-danger text-h3">Auditoria Legal</h3>
+            <p class="text-center text-n-alinear">Realizamos toda clase de gestión y trámites ante las diferentes dependencias. Todos los servicios y trámites pueden contratarse por períodos o bien por única ocasión.</p>
           </div>
-          <div class="col-md-4">
-            <img src="../img/03.jpg"
-            class="img-responsive">
-            <h3 class="text-center text-danger">Estrategia Fiscal</h3>
-            <p class="text-center">Están diseñados para que se constituyan en un verdadero soporte administrativo, sobre el cual el empresario o comerciante pueda realizar netamente su actividad productiva, con la confianza que cuenta con una empresa de especialistas que se encargará de hacer las tareas contables oportunamente y dentro de las disposiciones legales vigentes.</p>
+          <div class="col-md-4 margen-arriba">
+            <img src="../img/03.jpg" class="img-responsive">
+            <h3 class="text-center text-danger text-h3">Estrategia Fiscal</h3>
+            <p class="text-center text-n-alinear">Están diseñados para que se constituyan en un verdadero soporte administrativo, sobre el cual el empresario o comerciante pueda realizar netamente su actividad productiva, con la confianza que cuenta con una empresa de especialistas que se encargará de hacer las tareas contables oportunamente y dentro de las disposiciones legales vigentes.</p>
           </div>
         </div>
       </div>
     </div>
 
-    <center class="scrollflow -slide-bottom" style="margin-top: 0%; margin-bottom: 5%;">
+    <center class="scrollflow -slide-bottom btn-contacto" style="margin-top: 0%; margin-bottom: 5%;">
       <a class="boton2" href="contacto.php">CONTÁCTANOS</a>
     </center>
 

@@ -17,13 +17,16 @@ header{
   /*border: 2px red solid;*/
   /*padding: 5%;*/
 }
+.op-menu{
+  display: none;
+}
 
 .logo{
   width: 40%;
   margin: 4% 0% 4% 5%;
   /*margin-left: 5%;*/
   /*border: 2px red solid;*/
-  
+
 }
 nav{
   /*border: 2px red solid;*/
@@ -42,7 +45,6 @@ nav ul .selector{
 }
 nav ul .selector:hover{
   color: #DE0E03;
-
 }
 #select{
   color: #DE0E03;

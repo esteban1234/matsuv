@@ -1,0 +1,648 @@
+@media screen and (max-width: 480px){
+
+/**********************DISEÑO INDEX*****************************/
+header .logo{
+  width: 90%;
+  float: none !important;
+  margin-right:0px !important;
+  padding: 0px;
+}
+
+
+header nav{
+  float: none !important;
+  width: 82%;
+  margin-left: 0px !important;
+  position: fixed;
+  height: 100%;
+  overflow: hidden;
+  top: -24px;
+  left: 0px;
+  background-color: #3A0600;
+  z-index: 2;
+  display: none;
+}
+
+nav ul{
+  padding: 0px;
+}
+
+nav ul .selector{
+  display: block;
+  text-align: center;
+  border-bottom: .5px solid rgba(255, 255, 255, 0.5);
+  padding-bottom: 20px !important;
+  color: #fff;
+}
+
+.banner{
+  height: 100%;
+}
+
+.banner p{
+  font-size: 20px;
+  text-align: justify;
+  padding: 5px 15px;
+}
+
+.banner p > br{
+  display: none;
+}
+
+.banner center{
+  margin: 30px 0px;
+}
+
+a.boton{
+  padding: 5px 15px;
+  font-size: 18px;
+}
+
+
+.conten > br{
+  display: none;
+}
+
+.conten h1{
+  font-size: 27px;
+  font-weight: bold;
+}
+
+.uno, .dos, .tres{
+  width: 100%;
+}
+
+.dos, .tres{
+  margin-top: 20px;
+}
+
+.bannerc{
+  height: 100%;
+}
+
+.bannerc p{
+  text-align: justify;
+  margin: 20px 0px;
+  padding: 5px 15px;
+}
+
+.bannerc p > br{
+  display: none;
+}
+
+.bannerc small{
+  display: none;
+}
+
+.bannerc div{
+  float: none !important;
+  width: 100%;
+  text-align: center;
+}
+
+.op-menu{
+  position: absolute;
+  top: 40px;
+  right: 20px;
+  cursor: pointer;
+  display: block;
+  z-index: 4;
+}
+
+.ir-arriba{
+  z-index: 3;
+}
+/**********************END DISEÑO INDEX************************/
+
+/*********************DISEÑO NOSOTROS***************************/
+.bannern{
+  height: 100%;
+}
+
+.q, .q2{
+  text-align: center;
+  float: none !important;
+  font-weight: bold;
+}
+
+.q1{
+  display: none;
+}
+
+.h1-n, .h1-s{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.text-n-alinear{
+  text-align: justify;
+}
+
+.icono i{
+  font-size: 40px;
+}
+
+.h2-text{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.text-p{
+  text-align: justify;
+}
+
+.salto{
+  margin-bottom: 40px;
+}
+
+.btn-contacto{
+  margin-bottom: 40px !important;
+}
+
+.btn-contacto .boton2{
+  font-size: 20px;
+}
+/*********************END DISEÑO NOSOTROS**********************/
+
+
+/*********************DISEÑO SERVICIOS***************************/
+.text-h3{
+  margin-top: 3px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.margen-arriba{
+  margin-top: 40px;
+}
+
+.container > br{
+  display: none;
+}
+
+.serv{
+  margin-bottom: 20px;
+}
+
+/*********************END DISEÑO SERVICIOS**********************/
+
+
+/*********************DISEÑO CONTACTO***************************/
+.contact-form{
+  /*border: 2px solid red;*/
+}
+
+body > br{
+  display: none;
+}
+
+.h4-contacto{
+  text-align: center;
+  font-size:18px;
+}
+
+address{
+  text-align: center;
+}
+/*********************END DISEÑO CONTACTO**********************/
+
+
+/*********************DISEÑO FOOTER***************************/
+footer{
+  height: 100%;
+}
+
+footer p{
+  width: 90%;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+/*********************END DISEÑO FOOTER**********************/
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+  /**********************DISEÑO INDEX*****************************/
+  header .logo{
+    width: 90%;
+    float: none !important;
+    margin-right:0px !important;
+    padding: 0px;
+  }
+
+
+  header nav{
+    float: none !important;
+    width: 82%;
+    margin-left: 0px !important;
+    position: fixed;
+    height: 100%;
+    overflow: hidden;
+    top: -27px;
+    left: 0px;
+    background-color: #3A0600;
+    z-index: 2;
+    display: none;
+  }
+
+  nav ul{
+    padding: 0px;
+  }
+
+  nav ul .selector{
+    display: block;
+    text-align: center;
+    border-bottom: .5px solid rgba(255, 255, 255, 0.5);
+    padding-bottom: 20px !important;
+    color: #fff;
+  }
+
+  .banner{
+
+    height: 100%;
+  }
+
+  .banner p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 5px 15px;
+  }
+
+  .banner p > br{
+    display: none;
+  }
+
+  .banner center{
+    margin: 30px 0px;
+  }
+
+  a.boton{
+    padding: 5px 15px;
+    font-size: 18px;
+  }
+
+
+  .conten > br{
+    display: none;
+  }
+
+  .conten h1{
+    font-size: 27px;
+    font-weight: bold;
+  }
+
+  .uno, .dos, .tres{
+    width: 100%;
+  }
+
+  .dos, .tres{
+    margin-top: 20px;
+  }
+
+  .bannerc{
+    height: 100%;
+  }
+
+  .bannerc p{
+    text-align: justify;
+    margin: 20px 0px;
+    padding: 5px 15px;
+  }
+
+  .bannerc p > br{
+    display: none;
+  }
+
+  .bannerc small{
+    display: none;
+  }
+
+  .bannerc div{
+    float: none !important;
+    width: 100%;
+    text-align: center;
+  }
+
+  .op-menu{
+    position: absolute;
+    top: 60px;
+    right: 40px;
+    cursor: pointer;
+    display: block;
+    z-index: 4;
+  }
+
+  .ir-arriba{
+    z-index: 3;
+  }
+  /**********************END DISEÑO INDEX************************/
+
+  /*********************DISEÑO NOSOTROS***************************/
+  .bannern{
+    height: 100%;
+  }
+
+  .q, .q2{
+    text-align: center;
+    float: none !important;
+    font-weight: bold;
+  }
+
+  .q1{
+    display: none;
+  }
+
+  .h1-n, .h1-s{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .text-n-alinear{
+    text-align: justify;
+  }
+
+  .icono i{
+    font-size: 40px;
+  }
+
+  .h2-text{
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .text-p{
+    text-align: justify;
+  }
+
+  .salto{
+    margin-bottom: 40px;
+  }
+
+  .btn-contacto{
+    margin-bottom: 40px !important;
+  }
+
+  .btn-contacto .boton2{
+    font-size: 20px;
+  }
+  /*********************END DISEÑO NOSOTROS**********************/
+
+
+  /*********************DISEÑO SERVICIOS***************************/
+  .text-h3{
+    margin-top: 3px;
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  .margen-arriba{
+    margin-top: 40px;
+  }
+
+  .container > br{
+    display: none;
+  }
+
+  .serv{
+    margin-bottom: 20px;
+  }
+
+  /*********************END DISEÑO SERVICIOS**********************/
+
+
+  /*********************DISEÑO CONTACTO***************************/
+  .contact-form{
+    /*border: 2px solid red;*/
+  }
+
+  body > br{
+    display: none;
+  }
+
+  .h4-contacto{
+    text-align: center;
+    font-size:18px;
+  }
+
+  address{
+    text-align: center;
+  }
+  /*********************END DISEÑO CONTACTO**********************/
+
+
+  /*********************DISEÑO FOOTER***************************/
+  footer{
+    height: 100%;
+  }
+
+  footer p{
+    width: 90%;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  /*********************END DISEÑO FOOTER**********************/
+
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+
+/***************************DISEÑO INDEX****************************/
+header nav{
+  float: none !important;
+  width: 82%;
+  margin-left: 0px !important;
+  position: fixed;
+  height: 100%;
+  overflow: hidden;
+  top: -30px;
+  left: 0px;
+  background-color: #3A0600;
+  z-index: 2;
+  display: none;
+}
+
+nav ul{
+  padding: 0px;
+}
+
+nav ul .selector{
+  display: block;
+  text-align: center;
+  border-bottom: .5px solid rgba(255, 255, 255, 0.5);
+  padding-bottom: 20px !important;
+  color: #fff;
+}
+
+.op-menu{
+  position: absolute;
+  top: 60px;
+  right: 40px;
+  cursor: pointer;
+  display: block;
+  z-index: 4;
+}
+
+
+
+.banner p{
+  font-size: 30px;
+  padding: 5px 15px;
+}
+
+.banner center{
+  margin-top: 100px !important;
+}
+
+  .conten{
+    width: 70%;
+  }
+
+  .uno, .dos, .tres{
+    width: 100%;
+  }
+
+  .dos, .tres{
+    margin-top: 20px;
+  }
+
+  .bannerc p{
+    text-align: justify;
+    margin: 20px 0px;
+    padding: 5px 15px;
+  }
+
+  .bannerc p > br{
+    display: none;
+  }
+
+  .bannerc small{
+    display: none;
+  }
+
+  .bannerc div{
+    float: none !important;
+    width: 100%;
+    text-align: center;
+  }
+/***************************END DISEÑO INDEX***********************/
+
+
+/***************************DISEÑO NOSOTROS****************************/
+
+.h1-n, .h1-s{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.text-n-alinear{
+  text-align: justify;
+}
+
+.icono i{
+  font-size: 40px;
+}
+
+.h2-text{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.text-p{
+  text-align: justify;
+}
+
+.salto{
+  margin-bottom: 40px;
+}
+
+.btn-contacto{
+  margin-bottom: 40px !important;
+}
+
+.btn-contacto .boton2{
+  font-size: 20px;
+}
+/***************************END DISEÑO NOSOTROS***********************/
+
+
+/***************************DISEÑO SERVICIOS****************************/
+.text-h3{
+  margin-top: 3px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.margen-arriba{
+  margin-top: 40px;
+}
+
+.container > br{
+  display: none;
+}
+
+.serv{
+  margin-bottom: 20px;
+}
+/***************************END DISEÑO SERVICIOS***********************/
+
+/***************************DISEÑO CONTACTO****************************/
+
+body > br{
+  display: none;
+}
+
+.h4-contacto{
+  text-align: center;
+  font-size:18px;
+}
+
+address{
+  text-align: center;
+}
+/***************************END DISEÑO CONTACTO***********************/
+
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+
+  .margen-arriba{
+    margin-top: 50px;
+  }
+
+  .container > br{
+    display: none;
+  }
+
+  header .logo{
+    width: 23%;
+    margin: 20px 2px;
+  }
+
+  header nav{
+    text-align: center;
+    margin: 0px;
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+
+  header .logo{
+    width: 30%;
+    margin: 20px 2px;
+  }
+
+  header nav{
+    text-align: center;
+    margin: 0px;
+    width: 65%;
+  }
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

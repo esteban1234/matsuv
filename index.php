@@ -5,7 +5,7 @@
 <div class="linea"></div>
 <header>
   <figure class="logo pull-left">
-    <img src="img/matsuv.png" alt="Matsuv" class="img-responsive"> 
+    <img src="img/matsuv.png" alt="Matsuv" class="img-responsive">
   </figure>
   <nav class="pull-right">
     <ul>
@@ -15,8 +15,11 @@
       <a class="selector" href="vistas/contacto.php">CONTACTO</a>
     </ul>
   </nav>
+  <div class="op-menu">
+    <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+  </div>
 </header>
-  
+
   <div class="banner">
     <p>Ayudamos a las empresas <br> a encontrar el camino más fácil <br> al logro de sus objetivos</p>
     <center class="" style="margin-top: 5%;">
@@ -64,6 +67,7 @@
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'vistas/pie.php' ?>
 <script src="js/jquery.js"></script>
+<script src="js/menu.js"></script>
 <script src="js/bootstrap.js"></script>
 <script src="js/botonarriba.js"></script>
 <script src="js/eskju.jquery.scrollflow.min.js"></script>
